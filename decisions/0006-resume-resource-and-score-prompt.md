@@ -1,6 +1,6 @@
 # 0006: Resume resource and score_resume prompt (resume_folder server, slice 2)
 
-- **Status:** accepted
+- **Status:** accepted (prompt argument `job_text` replaced by `job_name` in 0007; the rest stands)
 - **Date:** 2026-10-18
 - **Phase / component:** P2a resume_folder server / resource and prompt
 

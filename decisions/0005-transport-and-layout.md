@@ -1,6 +1,6 @@
 # 0005: Transport for v1 and repo layout
 
-- **Status:** accepted (why drafted by Claude at Rex's request, awaiting his OK)
+- **Status:** accepted (why written by Claude, per Rex's standing instruction)
 - **Date:** 2026-10-18
 - **Phase / component:** P2 Server / transport and layout
 

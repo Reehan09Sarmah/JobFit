@@ -39,7 +39,7 @@ Write the decision file from `decisions/0000-template.md`. Show it to Rex. Add i
 - Tests: write the test that would have caught the failure mode you taught in step 2.
 
 ### 8. Close the loop
-- Ask Rex to write 3 to 5 lines in his own words about what the component does and why we chose this design. Put them under "In Rex's words" in `PROGRESS.md`. Correct gaps kindly and specifically.
+- Write 3 to 5 lines in simple, humanized language about what the component does and why we chose this design, and put them under "In Rex's words" in `PROGRESS.md`. Do NOT ask Rex to write them (standing instruction from Rex, 2026-10-18). Fix any wrong reasoning yourself and explain the correct form in the reply.
 - Tick the component in `PROGRESS.md`, add minor calls, set "Next session starts with".
 
 ## Session shape
